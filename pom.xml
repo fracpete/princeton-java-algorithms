@@ -8,7 +8,7 @@
   <version>4.0.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>introcs</name>
+  <name>algorithms</name>
   <description>Code examples from Princeton's "Algorithms" textbook, 4th Edition.</description>
   <url>http://algs4.cs.princeton.edu/</url>
   <licenses>
