@@ -26,6 +26,9 @@
       <url>http://www.cs.princeton.edu/~rs</url>
       <organization>Princeton University, USA</organization>
       <organizationUrl>http://www.cs.princeton.edu/</organizationUrl>
+      <roles>
+        <role>author</role>
+      </roles>
     </developer>
     <developer>
       <id>kwayne</id>
@@ -33,6 +36,19 @@
       <url>http://www.cs.princeton.edu/~wayne</url>
       <organization>Princeton University, USA</organization>
       <organizationUrl>http://www.cs.princeton.edu/</organizationUrl>
+      <roles>
+        <role>author</role>
+      </roles>
+    </developer>
+    <developer>
+      <id>fracpete</id>
+      <name>Peter Reutemann</name>
+      <url>http://www.cms.waikato.ac.nz/~fracpete/</url>
+      <organization>University of Waikato, NZ</organization>
+      <organizationUrl>http://www.waikato.ac.nz/</organizationUrl>
+      <roles>
+        <role>maven deployment</role>
+      </roles>
     </developer>
   </developers>
 
