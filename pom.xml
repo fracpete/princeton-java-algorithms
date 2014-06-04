@@ -207,7 +207,6 @@
         <configuration>
           <show>protected</show>
           <nohelp>true</nohelp>
-          <!-- avoids "-SNAPSHOT" in title when using the release.xml configuration -->
           <doctitle>${project.name}</doctitle>
         </configuration>
       </plugin>
