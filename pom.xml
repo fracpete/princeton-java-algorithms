@@ -3,8 +3,8 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.googlecode.princeton-java-algorithms</groupId>
-  <artifactId>algorithms</artifactId>
+  <groupId>com.github.fracpete</groupId>
+  <artifactId>princeton-java-algorithms</artifactId>
   <version>4.0.2-SNAPSHOT</version>
   <packaging>jar</packaging>
 
@@ -59,16 +59,16 @@
   </parent>
 
   <scm>
-    <connection>scm:git:https://code.google.com/p/princeton-java-algorithms/</connection>
-    <developerConnection>scm:git:https://code.google.com/p/princeton-java-algorithms/</developerConnection>
-    <url>https://code.google.com/p/princeton-java-algorithms/</url>
+    <connection>scm:git:https://github.com/fracpete/princeton-java-algorithms</connection>
+    <developerConnection>scm:git:https://github.com/fracpete/princeton-java-algorithms</developerConnection>
+    <url>https://github.com/fracpete/princeton-java-algorithms</url>
     <tag>HEAD</tag>
   </scm>
 
   <dependencies>
     <dependency>
-      <groupId>com.googlecode.princeton-java-introduction</groupId>
-      <artifactId>stdlib</artifactId>
+      <groupId>com.github.fracpete</groupId>
+      <artifactId>princeton-java-stdlib</artifactId>
       <version>1.0.1</version>
     </dependency>
 
