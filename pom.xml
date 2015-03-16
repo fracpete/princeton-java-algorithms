@@ -68,7 +68,7 @@
   <dependencies>
     <dependency>
       <groupId>com.github.fracpete</groupId>
-      <artifactId>princeton-java-stdlib</artifactId>
+      <artifactId>princeton-java-introcs</artifactId>
       <version>1.0.1</version>
     </dependency>
 
