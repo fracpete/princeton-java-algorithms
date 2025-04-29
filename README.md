@@ -13,7 +13,7 @@ You can use the following dependency in your `pom.xml`:
 <dependency>
   <groupId>com.github.fracpete</groupId>
   <artifactId>princeton-java-algorithms</artifactId>
-  <version>4.0.1</version>
+  <version>4.0.2</version>
 </dependency>
 ```
 
