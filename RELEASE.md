@@ -1,5 +1,7 @@
 # RELEASE
 
+Switch to Java 8.
+
 Use the following command to make a new release:
 
 ```
