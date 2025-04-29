@@ -15,3 +15,5 @@ Go to the following URL and publish the artifact:
 ```
 https://central.sonatype.com/publishing/deployments
 ```
+
+Update the Maven artifact version in [README.md](README.md#maven).

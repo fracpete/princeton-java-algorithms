@@ -5,6 +5,8 @@ The examples cover the most important algorithms and data structures in use toda
 
 http://algs4.cs.princeton.edu/
 
+## Maven
+
 You can use the following dependency in your `pom.xml`:
 
 ```xml
